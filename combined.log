@@ -1,0 +1,209 @@
+02:41:27 [error] : Error While Connecting to database
+02:41:27 [info] : Server listening at the port 3000
+02:44:24 [error] : Error While Connecting to database
+02:44:24 [info] : Server listening at the port 3000
+02:44:33 [error] : Error While Connecting to database
+02:44:33 [info] : Server listening at the port 3000
+02:45:16 [error] : mongoose is not defined
+02:45:16 [error] : Error While Connecting to database
+02:45:16 [info] : Server listening at the port 3000
+02:45:37 [info] : Server listening at the port 3000
+02:45:37 [info] : Connected to Database
+02:45:56 [info] : Server listening at the port 3000
+02:45:56 [info] : Connected to Database
+02:47:30 [info] : Server listening at the port 3000
+02:47:30 [info] : Connected to Database
+02:50:25 [info] : Server listening at the port 3000
+02:50:25 [info] : Connected to Database
+02:51:04 [info] : Server listening at the port 3000
+02:51:04 [info] : Connected to Database
+02:51:31 [info] : Server listening at the port 3000
+02:51:31 [info] : Connected to Database
+02:55:22 [info] : Server listening at the port 3000
+02:55:22 [info] : Connected to Database
+02:58:32 [info] : Server listening at the port 3000
+02:58:32 [info] : Connected to Database
+02:59:58 [info] : Server listening at the port 3000
+02:59:58 [info] : Connected to Database
+03:02:22 [info] : Server listening at the port 3000
+03:02:22 [info] : Connected to Database
+03:03:27 [info] : Server listening at the port 3000
+03:03:27 [info] : Connected to Database
+03:07:01 [info] : Server listening at the port 3000
+03:07:01 [info] : Connected to Database
+03:07:42 [error] : Error while adding user 
+03:08:24 [info] : Server listening at the port 3000
+03:08:24 [info] : Connected to Database
+03:08:28 [info] : User Added with username : undefined
+03:08:54 [info] : User Added with username : undefined
+03:09:13 [info] : User Added with username : undefined
+03:09:26 [error] : Error while adding user 
+03:10:04 [info] : Server listening at the port 3000
+03:10:04 [info] : Connected to Database
+03:10:46 [info] : Server listening at the port 3000
+03:10:46 [info] : Connected to Database
+11:42:41 [info] : Server listening at the port 3000
+11:42:41 [info] : Connected to Database
+11:42:57 [info] : User Added with username : undefined
+11:43:01 [info] : User Added with username : undefined
+11:45:22 [info] : User Added with username : undefined
+11:45:55 [info] : Server listening at the port 3000
+11:45:55 [info] : Connected to Database
+11:46:20 [info] : User Added with username : architiii
+11:47:06 [info] : Server listening at the port 3000
+11:47:06 [info] : Connected to Database
+11:47:10 [info] : User Added with username : archit04.sharma@gmail.com and phone : 919418033740
+11:47:44 [info] : Server listening at the port 3000
+11:47:44 [info] : Connected to Database
+11:47:47 [info] : User Added with username : archit04.sharma@gmail.com, 919418033740
+11:50:14 [info] : Server listening at the port 3000
+11:50:14 [info] : Connected to Database
+11:51:24 [info] : Server listening at the port 3000
+11:51:24 [info] : Connected to Database
+11:51:47 [info] : Server listening at the port 3000
+11:51:47 [info] : Connected to Database
+11:51:48 [error] : Error while adding user 
+11:52:15 [info] : Server listening at the port 3000
+11:52:15 [info] : Connected to Database
+11:52:19 [info] : User Added with username : archit04.sharma@gmail.com, 919418033740
+11:52:59 [info] : User Added with username : archit04.sharma@gmail.com, 919418033740
+11:53:07 [info] : User Added with username : archit04.sharma@gmail.com, 919418033740
+11:53:18 [info] : User Added with username : archit04.sharma@gmail.com, 919418033740
+11:53:46 [info] : Server listening at the port 3000
+11:53:46 [info] : Connected to Database
+11:53:55 [info] : User Added with username : archit04.sharma@gmail.com, 919418033740
+11:54:39 [info] : User Added with username : archit04.sharma@gjmail.com, 919418033741
+11:55:46 [info] : Server listening at the port 3000
+11:55:46 [info] : Connected to Database
+11:56:16 [info] : Server listening at the port 3000
+11:56:16 [info] : Connected to Database
+11:56:35 [info] : Server listening at the port 3000
+11:56:35 [info] : Connected to Database
+11:57:31 [info] : Server listening at the port 3000
+11:57:31 [info] : Connected to Database
+11:57:50 [info] : Server listening at the port 3000
+11:57:50 [info] : Connected to Database
+11:57:59 [info] : Error while adding user : Duplicate Email, email already exists
+11:57:59 [error] : Error while adding user 
+11:59:05 [info] : Server listening at the port 3000
+11:59:05 [info] : Connected to Database
+11:59:08 [info] : Error while adding user : Duplicate Email, email already exists
+11:59:30 [info] : Error while adding user : Duplicate Phone, phone already exists
+11:59:39 [info] : User Added with username : archit04.sharnma@gjmail.com, 919418033747
+12:00:01 [info] : Server listening at the port 3000
+12:00:01 [info] : Connected to Database
+12:02:16 [info] : Server listening at the port 3000
+12:02:16 [info] : Connected to Database
+12:12:06 [info] : User Added with username : arshar@gjmail.com, 919418033748
+12:13:05 [info] : Server listening at the port 3000
+12:13:05 [info] : Connected to Database
+12:13:15 [info] : Error while adding user : Duplicate Phone, phone already exists
+12:13:28 [info] : User Added with username : arhit04.sharnma@gjmail.com, 919418033743
+12:14:12 [info] : Server listening at the port 3000
+12:14:12 [info] : Connected to Database
+12:15:18 [info] : Server listening at the port 3000
+12:15:18 [info] : Connected to Database
+12:16:10 [info] : Server listening at the port 3000
+12:16:10 [info] : Connected to Database
+12:16:39 [info] : Server listening at the port 3000
+12:16:39 [info] : Connected to Database
+12:26:59 [info] : Server listening at the port 3000
+12:26:59 [info] : Connected to Database
+12:27:10 [info] : Server listening at the port 3000
+12:27:10 [info] : Connected to Database
+12:27:39 [info] : Server listening at the port 3000
+12:27:39 [info] : Connected to Database
+12:29:41 [info] : Login attempt using Invalid Username/password
+12:30:09 [error] : Error in Login attempt, something went wrong
+12:32:15 [info] : Server listening at the port 3000
+12:32:15 [info] : Connected to Database
+12:33:04 [info] : Server listening at the port 3000
+12:33:04 [info] : Connected to Database
+12:33:07 [error] : Error in Login attempt, something went wrong
+12:33:29 [info] : Server listening at the port 3000
+12:33:29 [info] : Connected to Database
+12:33:32 [info] : Login attempt successful for user : archit04.sharma@gmail.com
+12:33:52 [info] : User Added with username : arhit04.sharnma@gjmail.com, 919418033743
+12:34:14 [info] : Login attempt using Invalid Username/password
+12:34:20 [info] : Login attempt using Invalid Username/password
+12:34:24 [info] : Login attempt successful for user : arhit04.sharnma@gjmail.com
+12:53:57 [info] : Server listening at the port 3000
+12:53:57 [info] : Connected to Database
+12:56:33 [info] : Server listening at the port 3000
+12:56:33 [info] : Connected to Database
+12:56:53 [info] : Server listening at the port 3000
+12:56:53 [info] : Connected to Database
+13:04:45 [info] : Server listening at the port 3000
+13:04:45 [info] : Connected to Database
+13:05:10 [info] : Server listening at the port 3000
+13:05:10 [info] : Connected to Database
+13:22:41 [info] : Server listening at the port 3000
+13:22:41 [info] : Connected to Database
+13:32:53 [info] : Server listening at the port 3000
+13:32:53 [info] : Connected to Database
+13:38:03 [info] : Server listening at the port 3000
+13:38:03 [info] : Connected to Database
+13:38:21 [info] : Server listening at the port 3000
+13:38:21 [info] : Connected to Database
+13:38:50 [info] : Server listening at the port 3000
+13:38:50 [info] : Connected to Database
+13:38:58 [info] : Server listening at the port 3000
+13:38:58 [info] : Connected to Database
+17:01:06 [info] : Server listening at the port 3000
+17:01:06 [info] : Connected to Database
+17:11:36 [info] : Server listening at the port 3000
+17:11:36 [info] : Connected to Database
+17:12:26 [info] : Server listening at the port 3000
+17:12:26 [info] : Connected to Database
+17:12:42 [info] : Server listening at the port 3000
+17:12:42 [info] : Connected to Database
+17:13:23 [info] : Product added to the inventory with product id pxm34
+00:52:39 [info] : Server listening at the port 3000
+00:52:39 [info] : Connected to Database
+00:53:22 [info] : Server listening at the port 3000
+00:53:23 [info] : Connected to Database
+00:54:28 [info] : Product added to the inventory with product id pxm34
+00:57:01 [info] : Server listening at the port 3000
+00:57:01 [info] : Connected to Database
+01:00:20 [info] : Server listening at the port 3000
+01:00:20 [info] : Connected to Database
+01:01:04 [info] : Server listening at the port 3000
+01:01:04 [info] : Connected to Database
+01:02:20 [info] : Server listening at the port 3000
+01:02:21 [info] : Connected to Database
+01:05:14 [info] : Server listening at the port 3000
+01:05:14 [info] : Connected to Database
+01:05:33 [info] : Product added to the inventory with product id pxm34
+01:06:00 [error] : Error while adding user 
+01:06:24 [info] : Server listening at the port 3000
+01:06:25 [info] : Connected to Database
+01:07:02 [info] : Server listening at the port 3000
+01:07:02 [info] : Connected to Database
+01:07:04 [info] : Product added to the inventory with product id pxm34
+01:10:55 [info] : Server listening at the port 3000
+01:10:56 [info] : Connected to Database
+01:11:11 [info] : Product added to the inventory with product id pxm34
+01:14:08 [info] : Server listening at the port 3000
+01:14:08 [info] : Connected to Database
+01:14:25 [info] : Server listening at the port 3000
+01:14:25 [info] : Connected to Database
+01:23:49 [info] : Server listening at the port 3000
+01:23:49 [info] : Connected to Database
+01:25:14 [info] : Server listening at the port 3000
+01:25:14 [info] : Connected to Database
+01:27:49 [info] : Server listening at the port 3000
+01:27:49 [info] : Connected to Database
+01:28:47 [info] : Server listening at the port 3000
+01:28:47 [info] : Connected to Database
+01:29:36 [info] : Server listening at the port 3000
+01:29:36 [info] : Connected to Database
+01:31:29 [info] : Server listening at the port 3000
+01:31:29 [info] : Connected to Database
+01:31:39 [info] : Server listening at the port 3000
+01:31:39 [info] : Connected to Database
+01:35:30 [info] : Server listening at the port 3000
+01:35:30 [info] : Connected to Database
+01:36:37 [info] : Server listening at the port 3000
+01:36:37 [info] : Connected to Database
+01:38:53 [info] : Server listening at the port 3000
+01:38:53 [info] : Connected to Database
