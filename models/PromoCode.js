@@ -11,7 +11,7 @@ const PromoCodeSchema = mongoose.Schema({
         type: String,
         required : true
     },
-    promoCode:{
+    coupons:{
         type: Object,
         required : true
     }

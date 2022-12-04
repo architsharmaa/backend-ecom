@@ -41,14 +41,16 @@ async function loginService(req,res){
             //on success match of password genrating JWT token
             const token = jwt.sign({
                 id: user._id,
-                email: user.email
-            },JWT_SECRET,{expiresIn:'1800s'});
+                email: user.email,
+                userType: user.userType
+            },JWT_SECRET,{expiresIn:'18000s'});
 
 
             //on success match of password genrating refresh token
             const refreshtoken = jwt.sign({
                 id: user._id,
-                email: user.email
+                email: user.email,
+                userType: user.userType
             },REFRESH_SECRET,{expiresIn:'5d'});
 
             const userType = user.userType;
