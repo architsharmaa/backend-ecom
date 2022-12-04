@@ -4,3 +4,5 @@ node_modules/
 error.txt/
 log.txt/
 .log
+error.log
+combined.log
