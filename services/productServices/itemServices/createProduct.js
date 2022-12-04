@@ -24,14 +24,13 @@ async function createProductService(req,res){
 
         //saved product
         const savedProduct = await product.save();
-        res.json({"message" : "Product added to your inventory"});
+        res.json({"message" : "Product added to your inventory for product id " + product.productId});
         logger.info("Product added to the inventory with product id " + product.productId);
     }
     catch(err) {
         //error handling part
-        logger.error("Error while adding product ");
-        res.json({ "message": "Error while adding product "});
-        console.log(err)
+        logger.error("Error while adding product " + product.productId);
+        res.json({ "message": "Error while adding product " + product.productId});
     }  
 
 }
