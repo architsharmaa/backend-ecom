@@ -20,7 +20,7 @@ const InventorySchema = mongoose.Schema({
         required : false
     },
     discountDaysValidity:{
-        type: Number,
+        type: Date,
         required : false
     }
 
